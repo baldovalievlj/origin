@@ -1,0 +1,17 @@
+$ git log
+commit 00b9238e9c8a0294d655e4a4c55ebef8f1b0b2ab (HEAD -> logging, 
+origin/master, master)
+Author: baldovaliev.ljupcho@students.finki.ukim.mk 
+<baldovaliev.ljupcho@students.finki.ukim.mk>
+Date:   Fri Mar 16 15:54:49 2018 +0100
+
+    modify l1.txt
+
+commit e2aaa5363a1a714e589c2a771016758bdfe7c384
+Author: baldovaliev.ljupcho@students.finki.ukim.mk 
+<baldovaliev.ljupcho@students.finki.ukim.mk>
+Date:   Fri Mar 16 15:50:22 2018 +0100
+
+    Initial commit
+
+
